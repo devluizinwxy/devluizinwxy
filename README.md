@@ -63,7 +63,7 @@
 🔹 **Mini CRUD em JavaScript**  
 🔹 **APIs usando Node.js + Insomnia**
 
-> *(Se quiser, posso criar a sessão com links diretos dos seus repositórios.)*
+
 
 ---
 
