@@ -21,7 +21,6 @@
 - 💻 Desenvolvedor com foco em **Java, JavaScript e Node.js**  
 - 🏆 Finalista Nacional da **OBI** (Olimpíada Brasileira de Informática)  
 - ⚡ Apaixonado por resolver problemas e aprender rápido  
-- 🎯 Buscando oportunidade como **Jovem Aprendiz na área de TI**
 
 ---
 
