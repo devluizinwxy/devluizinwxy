@@ -1,79 +1,77 @@
-<!-- BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00AEEF&height=180&section=header&text=Olá,+eu+sou+Luís+Fernandes!&fontSize=35&fontColor=ffffff&fontAlignY=30"/>
+<img src="https://i.imgur.com/placeholder.png" width="100%" />
 
-<!-- FOTO DE PERFIL -->
-<p align="center">
-  <img src="perfil.jpeg" width="180" height="180" style="border-radius: 50%; object-fit: cover;" />
-</p>
+# 👨‍💻 Luis Fernandes
 
-<h1 align="center">Desenvolvedor & QA | Estudante de Sistemas de Informação</h1>
-
-<p align="center">
-  Apaixonado por tecnologia, qualidade de software e desenvolvimento.  
-  Atualmente cursando Sistemas de Informação no IFS e atuando com testes, automação e desenvolvimento.
-</p>
+Java Full Stack Developer  
+Finalista Nacional da Olimpíada Brasileira de Informática (OBI)
 
 ---
 
-## 🚀 **Sobre mim**
-- 🎓 Bacharelado em **Sistemas de Informação** – IFS (cursando)  
-- 🧪 Experiência com **QA Manual e Automação**  
-- 💻 Desenvolvedor com foco em **Java, JavaScript e Node.js**  
-- 🏆 Finalista Nacional da **OBI** (Olimpíada Brasileira de Informática)  
-- ⚡ Apaixonado por resolver problemas e aprender rápido  
+<img src="sua-foto.png" width="180" align="right"/>
+
+Estudante de Sistemas de Informação no Instituto Federal de Sergipe  
+Focado em:
+
+• Java & Spring Boot  
+• APIs REST escaláveis  
+• Algoritmos e Estruturas de Dados  
+• Arquitetura de Software  
 
 ---
 
-## 🛠️ **Tecnologias & Ferramentas**
+# 🏆 Achievements
 
-### **Linguagens**
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Ruby-E0115F?style=for-the-badge&logo=ruby&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
-
-### **Ferramentas & QA**
-<p align="left">
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CI/CD-0A0?style=for-the-badge"/>
-</p>
+🥇 Finalista Nacional — Olimpíada Brasileira de Informática 2025  
+🥈 Vice-campeão — ProgBase ERBASE 2025  
 
 ---
 
-## 🏆 **Conquistas**
-- 🥇 **1º lugar no IFS** – Olimpíada Brasileira de Informática  
-- 🥈 **Vice-campeão – ProgBase / ERBASE**  
-- 🏅 **Finalista Nacional – OBI Nível Sênior**  
-- 🔥 Top 3 melhor de Sergipe na OBI e único representante do IFS Lagarto  
-- 🎯 115º lugar entre 1.940 participantes nacionais  
+# ⚙️ Tech Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 
 ---
 
-## 📂 **Projetos Destaque**
-🔹 **Sistema de Gerenciamento de Usuários (Java + POO)**  
-🔹 **Automação de Testes com Selenium + Ruby**  
-🔹 **Mini CRUD em JavaScript**  
-🔹 **APIs usando Node.js + Insomnia**
+# 📊 GitHub Stats
 
+![stats](https://github-readme-stats.vercel.app/api?username=devluizinwxy&show_icons=true&theme=chartreuse-dark)
 
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devluizinwxy&layout=compact&theme=chartreuse-dark)
 
 ---
 
-## 📈 **Estatísticas do GitHub**
+# 🚀 Featured Projects
 
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=devluizinwxy&show_icons=true&theme=tokyonight"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devluizinwxy&layout=compact&theme=tokyonight"/>
-</p>
+### Localizador de CEP
+Sistema de geolocalização para ruas não registradas em GPS.
+
+### DataSecure Audit System
+Sistema de auditoria de logs em Java com Regex e Java NIO.
+
+### Spring Boot REST API
+API completa com CRUD e PostgreSQL.
 
 ---
+
+# 🌐 Portfolio
+
+👉 https://devluizinwxy.github.io/portfolio
+
+---
+
+# 📫 Contact
+
+LinkedIn  
+https://linkedin.com/in/luis-fernandes-3a4a15207
+
+Email  
+devluisfernandes@gmail.com
 
 ## 📬 **Contato**
 📩 **Email:** devluisfernandes@gmail.com  
