@@ -1,57 +1,38 @@
-<div align="center">
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0c08,50:1a2d0a,100:a3ff12&height=200&section=header&text=Luís%20Fernandes&fontSize=42&fontColor=a3ff12&fontAlignY=38&desc=Java%20Full%20Stack%20Developer&descAlignY=58&descColor=7acc0e&animation=fadeIn)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0c08,50:1a2d0a,100:a3ff12&height=200&section=header&text=Luís%20Fernandes&fontSize=42&fontColor=a3ff12&fontAlignY=38&desc=Java%20Full%20Stack%20Developer&descAlignY=58&descColor=7acc0e&animation=fadeIn" width="100%"/>
+![foto](https://github.com/devluizinwxy.png?size=160)
 
-
-<br/>
-<img src="https://github.com/devluizinwxy.png?size=160" width="160" height="160" style="border-radius:50%;" alt="Luís Fernandes"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/🏆_OBI_2025-Finalista_Nacional-a3ff12?style=for-the-badge&labelColor=0a0c08" alt="OBI"/>
-<img src="https://img.shields.io/badge/🥈_ProgBase_ERBASE-Vice--Campeão-a3ff12?style=for-the-badge&labelColor=0a0c08" alt="ProgBase"/>
-<img src="https://img.shields.io/badge/🎓_IFS-Sistemas_de_Info-a3ff12?style=for-the-badge&labelColor=0a0c08" alt="IFS"/>
-
-<br/><br/>
+![OBI](https://img.shields.io/badge/🏆_OBI_2025-Finalista_Nacional-a3ff12?style=for-the-badge&labelColor=0a0c08)
+![ProgBase](https://img.shields.io/badge/🥈_ProgBase_ERBASE-Vice--Campeão-a3ff12?style=for-the-badge&labelColor=0a0c08)
+![IFS](https://img.shields.io/badge/🎓_IFS-Sistemas_de_Info-a3ff12?style=for-the-badge&labelColor=0a0c08)
 
 [![🚀 VER PORTFÓLIO COMPLETO](https://img.shields.io/badge/🚀%20VER%20PORTFÓLIO%20COMPLETO-a3ff12?style=for-the-badge&labelColor=0a0c08&logo=googlechrome&logoColor=0a0c08)](https://devluizinwxy.github.io)
-
-<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0c08?style=for-the-badge&logo=linkedin&logoColor=a3ff12)](https://linkedin.com/in/luis-fernandes-3a4a15207)
 [![Gmail](https://img.shields.io/badge/Gmail-0a0c08?style=for-the-badge&logo=gmail&logoColor=a3ff12)](mailto:devluisfernandes@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-0a0c08?style=for-the-badge&logo=github&logoColor=a3ff12)](https://github.com/devluizinwxy)
 
-</div>
-
 ---
 
 <div align="center">
 
-### ⚡ SOBRE MIM
+## ⚡ Sobre Mim
+
+🎓 &nbsp;Estudante de **Sistemas de Informação** no **IFS** — Lagarto, Sergipe
+&nbsp;
+🏆 &nbsp;**Finalista Nacional OBI 2025** — único do campus, top 3 de Sergipe
+&nbsp;
+🥈 &nbsp;**Vice-Campeão ProgBase ERBASE 2025**
+&nbsp;
+💻 &nbsp;Desenvolvedor **Java Full Stack** apaixonado por back-end e APIs
+&nbsp;
+🚀 &nbsp;**Aberto a estágio e oportunidades**
+&nbsp;
+📍 &nbsp;Lagarto, Sergipe — Brasil 🇧🇷
 
 </div>
 
-```java
-public class LuísFernandes {
-
-    String[] roles     = {"Java Full Stack Developer", "Estudante de SI - IFS"};
-    String   location  = "Lagarto, Sergipe — Brasil 🇧🇷";
-    String   status    = "Aberto a estágio e oportunidades 🚀";
-
-    String[] conquistas = {
-        "🏆 Finalista Nacional OBI 2025 — único do campus, top 3 de Sergipe",
-        "🥈 Vice-Campeão ProgBase ERBASE 2025",
-        "🎓 IFS — Sistemas de Informação (2025.1 ~ 2028)"
-    };
-}
-```
-
----
-
-<div align="center">
-
-### 🛠️ STACK TECNOLÓGICO
+## 🛠️ Stack Tecnológico
 
 ![Java](https://img.shields.io/badge/Java-0a0c08?style=for-the-badge&logo=openjdk&logoColor=a3ff12)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-0a0c08?style=for-the-badge&logo=springboot&logoColor=a3ff12)
@@ -64,30 +45,19 @@ public class LuísFernandes {
 ![Selenium](https://img.shields.io/badge/Selenium-0a0c08?style=for-the-badge&logo=selenium&logoColor=a3ff12)
 ![Git](https://img.shields.io/badge/Git-0a0c08?style=for-the-badge&logo=git&logoColor=a3ff12)
 
-</div>
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=devluizinwxy&show_icons=true&theme=chartreuse-dark&bg_color=0a0c08&title_color=a3ff12&icon_color=a3ff12&text_color=c8e6c9&border_color=a3ff12&border_radius=8)
+
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devluizinwxy&layout=compact&theme=chartreuse-dark&bg_color=0a0c08&title_color=a3ff12&text_color=c8e6c9&border_color=a3ff12&border_radius=8)
+
+![Streak](https://streak-stats.demolab.com/?user=devluizinwxy&theme=chartreuse-dark&background=0a0c08&ring=a3ff12&fire=a3ff12&currStreakLabel=a3ff12&border=a3ff12&border_radius=8)
 
 ---
 
-<div align="center">
-
-### 📊 GITHUB STATS
-
-<img src="https://github-readme-stats.vercel.app/api?username=devluizinwxy&show_icons=true&theme=chartreuse-dark&bg_color=0a0c08&title_color=a3ff12&icon_color=a3ff12&text_color=c8e6c9&border_color=a3ff12&border_radius=8" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devluizinwxy&layout=compact&theme=chartreuse-dark&bg_color=0a0c08&title_color=a3ff12&text_color=c8e6c9&border_color=a3ff12&border_radius=8" height="165"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=devluizinwxy&theme=chartreuse-dark&background=0a0c08&ring=a3ff12&fire=a3ff12&currStreakLabel=a3ff12&border=a3ff12&border_radius=8" height="150"/>
-
-</div>
-
----
-
-<div align="center">
-
-### 🚀 PROJETOS DESTAQUE
-
-</div>
+## 🚀 Projetos Destaque
 
 | Projeto | Descrição | Tech |
 |---------|-----------|------|
@@ -99,12 +69,6 @@ public class LuísFernandes {
 
 ---
 
-<div align="center">
+[![portfólio](https://img.shields.io/badge/━━━━━━%20🚀%20ACESSE%20MEU%20PORTFÓLIO%20COMPLETO%20🚀%20━━━━━━-a3ff12?style=for-the-badge&labelColor=0a0c08)](https://devluizinwxy.github.io)
 
-[![━━━━━━ 🚀 ACESSE MEU PORTFÓLIO COMPLETO 🚀 ━━━━━━](https://img.shields.io/badge/━━━━━━%20🚀%20PORTFÓLIO%20COMPLETO%20🚀%20━━━━━━-a3ff12?style=for-the-badge&labelColor=0a0c08)](https://devluizinwxy.github.io)
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a3ff12,50:1a2d0a,100:0a0c08&height=120&section=footer" width="100%"/>
-
-</div>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:a3ff12,50:1a2d0a,100:0a0c08&height=120&section=footer)
